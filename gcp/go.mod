@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	cloud.google.com/go/compute/metadata v0.5.0
-	cloud.google.com/go/profiler v0.4.0
+	cloud.google.com/go/profiler v0.4.1
 	github.com/nil-go/sloth v0.3.0
 	github.com/nil-go/sloth/otel v0.3.0
 	github.com/stretchr/testify v1.9.0
@@ -20,7 +20,7 @@ require (
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
-	github.com/google/pprof v0.0.0-20240430035430-e4905b036c4e // indirect
+	github.com/google/pprof v0.0.0-20240528025155-186aa0362fba // indirect
 	github.com/google/s2a-go v0.1.8 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
 	github.com/googleapis/gax-go/v2 v2.13.0 // indirect
