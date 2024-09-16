@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.22.5
 
 require (
-	github.com/nil-go/konf v1.3.0
+	github.com/nil-go/konf v1.3.1
 	github.com/nil-go/sloth v0.3.0
 	github.com/stretchr/testify v1.9.0
 	google.golang.org/grpc v1.66.0
