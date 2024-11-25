@@ -6,7 +6,7 @@ toolchain go1.22.9
 require (
 	github.com/nil-go/konf v1.3.1
 	github.com/nil-go/sloth v0.3.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	google.golang.org/grpc v1.68.0
 	google.golang.org/protobuf v1.35.2
 )
