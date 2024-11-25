@@ -8,7 +8,7 @@ require (
 	cloud.google.com/go/profiler v0.4.0
 	github.com/nil-go/sloth v0.3.0
 	github.com/nil-go/sloth/otel v0.3.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	go.opentelemetry.io/otel/trace v1.32.0
 	google.golang.org/api v0.209.0
 )
