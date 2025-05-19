@@ -1,13 +1,14 @@
 module github.com/nil-go/nilgo/grpc
 
-go 1.21
+go 1.23
+
 toolchain go1.24.1
 
 require (
 	github.com/nil-go/konf v1.4.0
 	github.com/nil-go/sloth v0.3.0
 	github.com/stretchr/testify v1.10.0
-	google.golang.org/grpc v1.72.0
+	google.golang.org/grpc v1.72.1
 	google.golang.org/protobuf v1.36.6
 )
 
