@@ -9,7 +9,7 @@ require (
 	github.com/nil-go/sloth v0.3.0
 	github.com/stretchr/testify v1.11.1
 	google.golang.org/grpc v1.75.1
-	google.golang.org/protobuf v1.36.7
+	google.golang.org/protobuf v1.36.10
 )
 
 require (
