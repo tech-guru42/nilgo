@@ -11,7 +11,7 @@ require (
 	github.com/nil-go/sloth/otel v0.3.0
 	github.com/stretchr/testify v1.11.1
 	go.opentelemetry.io/otel/trace v1.37.0
-	google.golang.org/api v0.250.0
+	google.golang.org/api v0.251.0
 )
 
 require (
@@ -39,7 +39,7 @@ require (
 	golang.org/x/time v0.13.0 // indirect
 	google.golang.org/genproto v0.0.0-20250603155806-513f23925822 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250707201910-8d1bb00bc6a7 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250908214217-97024824d090 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250929231259-57b25ae835d4 // indirect
 	google.golang.org/grpc v1.75.1 // indirect
 	google.golang.org/protobuf v1.36.9 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
