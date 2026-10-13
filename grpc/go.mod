@@ -3,7 +3,7 @@ module github.com/nil-go/nilgo/grpc
 go 1.25.0
 
 require (
-	github.com/nil-go/konf v1.4.0
+	github.com/nil-go/konf v1.5.0
 	github.com/nil-go/sloth v0.3.0
 	github.com/stretchr/testify v1.12.1
 	google.golang.org/grpc v1.84.0
