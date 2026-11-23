@@ -9,7 +9,7 @@ require (
 	github.com/nil-go/sloth/otel v0.3.0
 	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/otel/trace v1.47.0
-	google.golang.org/api v0.314.0
+	google.golang.org/api v0.316.0
 )
 
 require (
